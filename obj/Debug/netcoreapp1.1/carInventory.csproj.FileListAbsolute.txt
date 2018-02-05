@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/carInventory/bin/Debug/netcoreapp1.1/carInventory.deps.json
+/Users/Guest/Desktop/carInventory/bin/Debug/netcoreapp1.1/carInventory.runtimeconfig.json
+/Users/Guest/Desktop/carInventory/bin/Debug/netcoreapp1.1/carInventory.runtimeconfig.dev.json
+/Users/Guest/Desktop/carInventory/obj/Debug/netcoreapp1.1/carInventory.AssemblyInfo.cs
+/Users/Guest/Desktop/carInventory/bin/Debug/netcoreapp1.1/carInventory.dll
+/Users/Guest/Desktop/carInventory/bin/Debug/netcoreapp1.1/carInventory.pdb
+/Users/Guest/Desktop/carInventory/obj/Debug/netcoreapp1.1/carInventory.dll
+/Users/Guest/Desktop/carInventory/obj/Debug/netcoreapp1.1/carInventory.pdb
